@@ -1,2 +1,2 @@
 # simple-initial-repository
-This simple initial repository is meant to test some simple git commands and get started at GitHub w/ markdown, etc.
+This simple initial repository is meant to test some simple git commands, esp pushing via a global PAT, also to get started at GitHub w/ markdown, etc.
