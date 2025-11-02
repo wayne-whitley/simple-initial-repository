@@ -3,6 +3,8 @@ This simple initial repository is meant to test some simple git commands, esp pu
 
 ![snowy lake image](/assets/images/brilliantsunonsnowylake.jpg)
 
+![lake after snowfall with wandering geese in far background](/assets/images/snowylakegaylord.jpg)
+
 ![frozen lake - wide angle](/assets/images/icy5lakesgaylord.jpg)
 
 ## another header (larger than the 1st)
