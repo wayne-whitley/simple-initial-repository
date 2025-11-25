@@ -7,4 +7,6 @@ This simple initial repository is meant to test some simple git commands, esp pu
 
 ![pink blooms](/assets/images/pink.jpg)
 
-## another header (larger than the 1st)
+## another header
+
+* *larger than the 1st*
