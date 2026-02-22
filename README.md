@@ -11,4 +11,4 @@ This simple initial repository is meant to test some simple git commands, esp pu
 
 * *larger than the 1st*
 * # *for good measure*
-...finally back on this task Feb 15 2026!
+...finally back on this task, consistency is key, and posting more frequently will make for more effective practice.
