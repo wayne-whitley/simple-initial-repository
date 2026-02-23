@@ -12,3 +12,7 @@ This simple initial repository is meant to test some simple git commands, esp pu
 * *larger than the 1st*
 * # *for good measure*
 ...finally back on this task, consistency is key, and posting more frequently will make for more effective practice.
+
+As of May 2022, mathematics notation is supported via MathJax, a JavaScript display engine, e.g.:
+
+$$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2} $$
