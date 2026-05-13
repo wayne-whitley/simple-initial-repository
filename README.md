@@ -17,4 +17,4 @@ As of May 2022, mathematics notation is supported via MathJax, a JavaScript disp
 
 $$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2} $$
 
-This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
+This sentence uses delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
