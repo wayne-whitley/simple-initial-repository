@@ -5,7 +5,7 @@ This simple initial repository is meant to test some simple git commands, esp pu
 
 ![frozen lake - wide angle](/assets/images/icy5lakesgaylord.jpg)
 
-![pink blooms](/assets/images/pink.jpg)
+[pink blooms](/assets/images/pink.jpg)
 
 ## another header
 
