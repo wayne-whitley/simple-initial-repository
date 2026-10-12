@@ -15,6 +15,12 @@ xychart-beta
 ```
 
 ```mermaid
+---
+config:
+  themeVariables:
+    xyChart:
+      plotColorPalette: "#4b5563, #3b82f6"
+---
 xychart-beta
     x-axis "degrees" 0 --> 360 
     y-axis "Amplitude" -1 --> 1
