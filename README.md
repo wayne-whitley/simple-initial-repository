@@ -13,3 +13,6 @@ xychart-beta
     y-axis "Amplitude" -1 --> 1
     line [0, 0.35, 0.71, 0.92, 1, 0.92, 0.71, 0.35, 0, -0.35, -0.71, -0.92, -1, -0.92, -0.71, -0.35, 0]
 ```
+
+
+![svg example - parametric curve figure](/assets/images/parametric.svg)
