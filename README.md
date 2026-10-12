@@ -1,35 +1,13 @@
-### simple-initial-repository
-This simple initial repository is meant to test some simple git commands, esp pushing via a global PAT, also to get started at GitHub w/ markdown, etc.
 
-![lake after snowfall with wandering geese in far background](/assets/images/snowylakegaylord.jpg)
-
-![frozen lake - wide angle](/assets/images/icy5lakesgaylord.jpg)
-
-[pink blooms](/assets/images/pink.jpg)
-
-## another header
-
-* *larger than the 1st*
-* # *for good measure*
-...finally back on this task, consistency is key, and posting more frequently will make for more effective practice...
 
 As of May 2022, mathematics notation is supported via MathJax, a JavaScript display engine, e.g.:
 
-$$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2} $$
-
-This sentence uses delimiters to show math inline: $`\sqrt{3x+1}+(1+x)^2`$
+$$ y = \sqrt{x}, x \ge 0 $$
 
 ```mermaid
-sequenceDiagram
-    participant dotcom
-    participant iframe
-    participant viewscreen
-    dotcom->>iframe: loads html w/ iframe url
-    iframe->>viewscreen: request template
-    viewscreen->>iframe: html & javascript
-    iframe->>dotcom: iframe ready
-    dotcom->>iframe: set mermaid data on iframe
-    iframe->>iframe: render mermaid
+xychart-beta
+    title "Plot of y = sqrt(x)"
+    x-axis "x" [0, 1, 4, 9, 16]
+    y-axis "y" 0 --> 4
+    line [0, 1, 2, 3, 4]
 ```
-
-Testing after PAT regen
