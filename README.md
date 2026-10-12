@@ -2,12 +2,13 @@
 
 As of May 2022, mathematics notation is supported via MathJax, a JavaScript display engine, e.g.:
 
-$$ y = \sqrt{x}, x \ge 0 $$
+$$y = x^2 \quad \text{for } x \ge 0$$
+
 
 ```mermaid
 xychart-beta
-    title "Plot of y = square root of x"
-    x-axis "x" [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
-    y-axis "y" 0 --> 4
-    line [0, 0.5, 0.707, 0.866, 1.0, 1.41, 1.73, 2.0, 2.24, 2.45, 2.65, 2.83, 3.0, 3.16, 3.32, 3.46, 3.61, 3.74, 3.87, 4.0]
+    title "y = x^2 (x >= 0)"
+    x-axis [0, 1, 2, 3, 4, 5]
+    y-axis "y value" 0 --> 25
+    line [0, 1, 4, 9, 16, 25]
 ```
